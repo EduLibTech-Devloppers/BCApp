@@ -1,0 +1,14 @@
+Version 0.1:
+- Created the basic HTML structure for the index.php file, including the header, main content sections, and footer.
+- Implemented the CSS styles for the header, main content, and responsive design.
+- Wrote the JavaScript code to fetch and display the new releases and genres from the backend.
+- Created the new_releases.php and genres.php files to handle the backend API endpoints for fetching the respective data.
+- Designed the database schema and created the necessary tables in the templates.sql file.
+- Implemented the ability to manage different types of books, including the addition of a new "book_types" table in the database.
+- Updated the index.php, index.html, and index.php files to fetch and display the book types, as well as filter the books by type.
+- Implemented the books.php file to handle the retrieval of books based on both type and genre.
+- Refined the CSS styles to improve the visual presentation of the book types, book items, and genre items.
+- Optimized the JavaScript code in script.js to handle the fetching and display of books based on the selected type or genre.
+- Ensured the overall consistency and responsiveness of the application across different screen sizes.
+- Added the install.php file to handle the initial setup of the BCApp database, including the generation of random database credentials.
+- Updated the cli/bcapp_cli.php file to check the database connection and regenerate the database credentials in config.php if the connection fails.
