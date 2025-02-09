@@ -1,0 +1,92 @@
+msgid "BCApp"
+msgstr "BCApp"
+
+msgid "EduLibTech"
+msgstr "EduLibTech"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Les livres"
+msgstr "Les livres"
+
+msgid "Mes Livres"
+msgstr "Mes Livres"
+
+msgid "Gestion"
+msgstr "Gestion"
+
+msgid "Voir plus"
+msgstr "Voir plus"
+
+msgid "See more"
+msgstr "See more"
+
+msgid "Emprunté"
+msgstr "Emprunté"
+
+msgid "Date d'arrêt"
+msgstr "Date d'arrêt"
+
+msgid "Type de livre"
+msgstr "Type de livre"
+
+msgid "Votre mot de passe comporte une erreur veuillez le verifier !"
+msgstr "Votre mot de passe comporte une erreur veuillez le verifier !"
+
+msgid "Fait avec ❤️ par EduLibTech"
+msgstr "Fait avec ❤️ par EduLibTech"
+
+msgid "made with ❤️ by EduLibTech"
+msgstr "made with ❤️ by EduLibTech"
+
+msgid "Conditions d'utilisation"
+msgstr "Conditions d'utilisation"
+
+msgid "À propos"
+msgstr "À propos"
+
+msgid "Gestion des utilisateurs"
+msgstr "Gestion des utilisateurs"
+
+msgid "Gestion des livres"
+msgstr "Gestion des livres"
+
+msgid "Paramètres de BCApp"
+msgstr "Paramètres de BCApp"
+
+msgid "Durée de vie du token"
+msgstr "Durée de vie du token"
+
+msgid "Temps d'emprunt"
+msgstr "Temps d'emprunt"
+
+msgid "API utilisée"
+msgstr "API utilisée"
+
+msgid "Connexion avec Google"
+msgstr "Connexion avec Google"
+
+msgid "Mode d'envoi"
+msgstr "Mode d'envoi"
+
+msgid "Chiffrement"
+msgstr "Chiffrement"
+
+msgid "Adresse e-mail"
+msgstr "Adresse e-mail"
+
+msgid "Nom d'utilisateur"
+msgstr "Nom d'utilisateur"
+
+msgid "Mot de passe"
+msgstr "Mot de passe"
+
+msgid "Adresse du serveur"
+msgstr "Adresse du serveur"
+
+msgid "Port"
+msgstr "Port"

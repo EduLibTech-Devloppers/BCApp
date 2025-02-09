@@ -1,0 +1,86 @@
+msgid "BCApp"
+msgstr "BCApp"
+
+msgid "EduLibTech"
+msgstr "EduLibTech"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Books"
+msgstr "Livres"
+
+msgid "My Books"
+msgstr "Mes Livres"
+
+msgid "Management"
+msgstr "Gestion"
+
+msgid "See more"
+msgstr "Voir plus"
+
+msgid "Borrowed books"
+msgstr "Livres empruntés"
+
+msgid "Due date"
+msgstr "Date d'échéance"
+
+msgid "Overdue"
+msgstr "En retard"
+
+msgid "Admin"
+msgstr "Admin"
+
+msgid "User Management"
+msgstr "Gestion des utilisateurs"
+
+msgid "Book Management"
+msgstr "Gestion des livres"
+
+msgid "Settings"
+msgstr "Paramètres"
+
+msgid "Add User"
+msgstr "Ajouter un utilisateur"
+
+msgid "Delete User"
+msgstr "Supprimer un utilisateur"
+
+msgid "Edit User"
+msgstr "Modifier un utilisateur"
+
+msgid "Add Book"
+msgstr "Ajouter un livre"
+
+msgid "Delete Book"
+msgstr "Supprimer un livre"
+
+msgid "Edit Book"
+msgstr "Modifier un livre"
+
+msgid "Import Books"
+msgstr "Importer des livres"
+
+msgid "Export Books"
+msgstr "Exporter des livres"
+
+msgid "Password"
+msgstr "Mot de passe"
+
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+msgid "Login"
+msgstr "Connexion"
+
+msgid "Logout"
+msgstr "Déconnexion"
+
+msgid "Your password has an error, please check it!"
+msgstr "Votre mot de passe comporte une erreur, veuillez le vérifier !"
+
+msgid "made with ❤️ by EduLibTech"
+msgstr "fait avec ❤️ par EduLibTech"
